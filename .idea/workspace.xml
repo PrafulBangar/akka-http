@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/scala-01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../LAS-P-lightbend-akka-for-scala-professional-v1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Learning-Akka-master/rest-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../knolx-portal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../knolx-portal-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../swagger-ui-akka-http.g8-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
